@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi there 👋 I'm Lura
 
-<!--
-**LuraTembe/LuraTembe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📄 About
+- 💻 I'm a mozambican web developer who is looking for oppurtunities in the web development field
+- 🚀 I have a desire to be a Mobile Developer
+- 🚀 I'm currently learning JavaScript and React Native
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech and tools
+- HTML5
+- CSS3
+- JavaScript
+- SQL/SQL Server/ MySQL
