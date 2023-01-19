@@ -10,3 +10,14 @@
 - CSS3
 - JavaScript
 - SQL/SQL Server/ MySQL
+
+## ☎ How to reach me
+
+  
+ <a href="mailto:luratembe12@gmail.com" target="_blank">
+    <img align="center" alt="Lura's gmail" height="30"src="https://img.shields.io/badge/-luratembe12@gmail.com-FFC0CB?style=flat&logo=gmail"/>
+ </a>
+  &nbsp;
+  &nbsp;
+  
+  
